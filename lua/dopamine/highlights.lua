@@ -1,9 +1,9 @@
-local utils = require("hybrid.utils")
+local utils = require("dopamine.utils")
 
 local M = {}
 
 function M.setup(opts)
-  local c = require("hybrid.colors").setup()
+  local c = require("dopamine.colors").setup()
 
   local highlights = {
     -- Highlight default

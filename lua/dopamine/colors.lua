@@ -1,4 +1,4 @@
-local utils = require("hybrid.utils")
+local utils = require("dopamine.utils")
 
 local M = {}
 
