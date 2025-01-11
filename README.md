@@ -1,4 +1,3 @@
-<div align="center">
 
 # Dopamine.nvim
 
